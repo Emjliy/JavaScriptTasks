@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.drop{
+    display: inline-block;
+    width: 20%;
+    height: 100px;
+    border: 2px solid grey;
+}
+/* 
+.drag{
+    width: 10%;
+    height: 130px;
+    background-color: aqua;
+    margin: 40px;
+} */
